@@ -1,22 +1,10 @@
-<h1 align="center"> Hi there 👋, I'm Viktor </h1>
-
-## Goal
-"I am looking for a position as a Junior Data Scientist to apply my skills in Python and ML for data analysis and model building."
-
-## **Skills** 
-- **Python**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, OOP, PyTorch
-- **Databases**: PostgreSQL
-- **ML**: classification, regression, clustering, PCA 
-- **DL**: NLP and CV (studying) 
-- **Tools**: Git, Docker, Jupyter Notebook
-
 <h1 align="center">👋 Hi, I'm Viktor | Junior Data Scientist</h1>
 
 <h3 align="center">Passionate about transforming data into actionable insights</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:virgil.petrakovets@yandex.ru"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white" alt="GitHub"></a>
 </p>
 
@@ -54,9 +42,3 @@ Seeking a Junior Data Scientist position to leverage my Python and machine learn
 - Advanced Deep Learning architectures
 - MLOps practices
 - Cloud platforms (AWS/GCP)
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
-</p>

@@ -2,12 +2,6 @@
 
 <h3 align="center">Passionate about transforming data into actionable insights</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:virgil.petrakovets@yandex.ru"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white" alt="GitHub"></a>
-</p>
-
 ## 🎯 Career Goal
 Seeking a Junior Data Scientist position to leverage my Python and machine learning expertise in building predictive models and extracting valuable insights from complex datasets. Passionate about solving real-world problems through data-driven approaches while continuously expanding my knowledge in AI/ML.
 

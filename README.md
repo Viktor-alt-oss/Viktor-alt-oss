@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**Viktor-alt-oss/Viktor-alt-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋, I'm Viktor </h1>
 
 Here are some ideas to get you started:
 

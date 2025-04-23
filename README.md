@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm Viktor </h1>
 
-## **Goal** 
+### Goal
 "I am looking for a position as a Junior Data Scientist to apply my skills in Python and ML for data analysis and model building."
 
 - 🔭 I’m currently working on ...

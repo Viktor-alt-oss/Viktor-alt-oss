@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Viktor | Junior Data Scientist</h1>
+<h1 align="center">👋 Hi, I'm Viktor | Junior Data Scientist or Junior ML Engineer</h1>
 
 <h3 align="center">Passionate about transforming data into actionable insights</h3>
 

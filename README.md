@@ -56,7 +56,7 @@ Emerging Data Science professional with strong focus on machine learning and dat
 1. **Customer Churn Prediction** - Built predictive model for banking customer retention ([Repository](https://github.com/...))
 2. **Image Classification** - CNN model for object recognition using YOLO ([Repository](https://github.com/...))
 3. **Sentiment Analysis** - NLP model with Transformers for review classification ([Repository](https://github.com/...))
-4. **Smartphone Recommendation System** - A built recommendation model for understanding what you should pay attention to when buying a smartphone ([Repository](https://github.com/Viktor-alt-oss/smartphone-recommendation))
+4. **Smartphone Recommendation System** - ML-powered system identifying key smartphone features that matter most to buyers ([Repository](https://github.com/Viktor-alt-oss/smartphone-recommendation))
 
 ## 📚 Currently Learning
 - Advanced neural architectures (Transformers, GANs)

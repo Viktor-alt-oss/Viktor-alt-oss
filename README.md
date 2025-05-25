@@ -1,14 +1,11 @@
 <h1 align="center"> 
-  <img src="https://github.com/ViktorDataScientist/ViktorDataScientist/blob/main/banner.gif?raw=true" alt="Animated Data Science Banner" width="800">
-  <br>👋 Hi, I'm Viktor | Junior Data Scientist/ML Engineer
+  <img src="https://i.gifer.com/embedded/download/a4U.gif" alt="Animated Data Science Banner" width="800">
+  <br>👋 Hi, I'm Viktor | Junior ML Engineer / Data Scientist/ML Engineer
 </h1>
 
 <h3 align="center">🔍 Transforming data into actionable insights and production-ready models</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
   <a href="https://t.me/v_ptrk" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>

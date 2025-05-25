@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJqM3VjZ3J4eGx4d2ZvY2VlZ2VjYzV6dWJ6eGJtNnF5bGJ0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7AMqODRcAlPciE5j8/giphy.gif" alt="Data Science Banner" width="800">
+  <img src=["https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJqM3VjZ3J4eGx4d2ZvY2VlZ2VjYzV6dWJ6eGJtNnF5bGJ0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7AMqODRcAlPciE5j8/giphy.gif"](https://i.gifer.com/embedded/download/a4U.gif) alt="Data Science Banner" width="800">
   <br>👋 Hi, I'm Viktor | Junior ML Engineer / Data Scientist/ML Engineer
 </h1>
 

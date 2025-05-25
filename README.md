@@ -9,13 +9,13 @@
   <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://t.me/yourusername" target="_blank">
+  <a href="https://t.me/v_ptrk" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:virgil.petrakovets@yandex.ru">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.kaggle.com/yourprofile" target="_blank">
+  <a href="https://www.kaggle.com/viktoraltoss" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
 </p>
@@ -50,16 +50,6 @@ Emerging Data Science professional with strong focus on machine learning and dat
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-</div>
-
-## 📈 GitHub Activity
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
-  ![Viktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ## 🔥 Recent Projects

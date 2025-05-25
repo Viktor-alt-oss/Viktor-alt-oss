@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  <img src="https://i.gifer.com/embedded/download/a4U.gif" alt="Animated Data Science Banner" width="800">
+  <img src="[https://i.gifer.com/embedded/download/a4U.gif](https://i.gifer.com/embedded/download/a4U.gif)" alt="Animated Data Science Banner" width="800">
   <br>👋 Hi, I'm Viktor | Junior ML Engineer / Data Scientist/ML Engineer
 </h1>
 

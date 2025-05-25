@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  <img src="[https://i.gifer.com/embedded/download/a4U.gif](https://i.gifer.com/embedded/download/a4U.gif)" alt="Animated Data Science Banner" width="800">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJqM3VjZ3J4eGx4d2ZvY2VlZ2VjYzV6dWJ6eGJtNnF5bGJ0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7AMqODRcAlPciE5j8/giphy.gif" alt="Data Science Banner" width="800">
   <br>👋 Hi, I'm Viktor | Junior ML Engineer / Data Scientist/ML Engineer
 </h1>
 
@@ -35,18 +35,14 @@ Emerging Data Science professional with strong focus on machine learning and dat
 <div align="center">
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
 </div>
 
 ### **Databases & Tools**
 <div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
 </div>
 
 ## 🔥 Recent Projects

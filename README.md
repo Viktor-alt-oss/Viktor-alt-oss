@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/787490852843635893/D1A26B3390A66C269981A4457F66DE0CA815083E/?imw=512&amp;imh=384&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" alt="Data Science Banner" width="800">
+  <img src="https://i1255.photobucket.com/albums/hh633/suzusherpa/Matrix-animated-Smaller-ve.gif" alt="Data Science Banner" width="800">
   <br>👋 Hi, I'm Viktor | Junior ML Engineer / Data Scientist/ML Engineer
 </h1>
 

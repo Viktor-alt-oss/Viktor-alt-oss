@@ -60,10 +60,11 @@ Emerging Data Science professional with strong focus on machine learning and dat
 
 ## 📚 Currently Learning
 - Advanced neural architectures (Transformers, GANs)
+- Computer Vision for detection (YOLO)
 - Model optimization and deployment
 
 ## 💡 Interests
 - Healthcare ML applications (medical imaging, drug discovery)
 - Natural Language Processing (IF-IDF, Transformers)
-- Computer Vision (YOLO, OpenCV)
+- Computer Vision
 - Participating in Kaggle competitions

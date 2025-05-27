@@ -53,7 +53,7 @@ Emerging Data Science professional with strong focus on machine learning and dat
 </div>
 
 ## 🔥 Recent Projects
-1. **🏥 CMelanoma Segmentation with DeepLabV3** - This project implements a semantic segmentation model for medical image analysis ([Repository](https://github.com/Viktor-alt-oss/segmentation-for-melanoma--skin-damage-))
+1. **🏥 Melanoma Segmentation with DeepLabV3** - This project implements a semantic segmentation model for medical image analysis ([Repository](https://github.com/Viktor-alt-oss/segmentation-for-melanoma--skin-damage-))
 2. **Critical Temperature Prediction of Superconductors** - This project develops machine learning models to predict the critical temperature of superconductors based on their chemical composition and physical properties ([Repository](https://github.com/Viktor-alt-oss/critical-temperature-of-superconductors))
 3. **Predicting PCOS Risk Through Lifestyle Factors** - This project develops a machine learning model to predict Polycystic Ovary Syndrome (PCOS) risk based on lifestyle and health metrics ([Repository](https://github.com/Viktor-alt-oss/exploring-predictive-health-factors))
 4. **Smartphone Recommendation System** - ML-powered system identifying key smartphone features that matter most to buyers ([Repository](https://github.com/Viktor-alt-oss/smartphone-recommendation))

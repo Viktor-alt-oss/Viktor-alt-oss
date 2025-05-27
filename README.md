@@ -68,3 +68,4 @@ Emerging Data Science professional with strong focus on machine learning and dat
 - Natural Language Processing (IF-IDF, Transformers)
 - Computer Vision
 - Participating in Kaggle competitions
+- Martial Arts 
